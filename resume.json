@@ -6,10 +6,7 @@
     "email": "sevebadajoz@gmail.com",
     "phone": "(949) 629-0536",
     "website": "https://www.makeschool.com/portfolio/severiano/",
-    "summary": "Severiano's love for computer science began midway through middle school and has only grown since.
-     From a mixture of both self-teaching and classroom experience he has become an avid Java developer and familiar with Android development.
-      Seve loves to face challenges and adapt to new problems faced, learning to use new tools along the way.
-       He is excited to join the Make School community, confident in his ability to exit as a exceptional web developer.",
+    "summary": "Severiano's love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience he has become an avid Java developer and familiar with Android development.  Seve loves to face challenges and adapt to new problems faced, learning to use new tools along the way.  He is excited to join the Make School community, confident in his ability to exit as a exceptional web developer.",
     "location": {
       "address": "555 Post St",
       "postalCode": "CA 94102",
@@ -37,24 +34,14 @@
       "website": "",
       "startDate": "2017-09-01",
       "endDate": "2018-05-28",
-      "summary": "Aided fellow students in various Computer Science courses.
-       Assistance was completed in a variety of enviroments, including:
-        study groups, drop-in tutoring, and 1-on-1 appointments.",
+      "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of enviroments, including: study groups, drop-in tutoring, and 1-on-1 appointments.",
       "highlights": [
         ""
+        ]
     }
   ],
   "volunteer": [
     {
-      "organization": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
     }
   ],
   "education": [
@@ -92,7 +79,7 @@
         "area": "Applied Computer Science",
         "studyType": "Bachelor",
         "startDate": "2018-08-20",
-        "endDate": "",
+        "endDate": "2020-08-10",
         "gpa": "4.0",
         "courses": [
             "SPD1.1 - Intro Software Development",
@@ -106,13 +93,12 @@
       "title": "Oracle Certified Associate, Java SE 8 Programmer",
       "date": "2017-05-20",
       "awarder": "Oracle",
-      "summary": "An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts,
-       the Java programming language and general knowledge of Java platforms and technologies."
+      "summary": "An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies."
     }
   ],
   "publications": [
     {
-      "name": "",
+       "name": "",
       "publisher": "",
       "releaseDate": "",
       "website": "",
@@ -169,7 +155,7 @@
   ],
   "references": [
     {
-      "name": "",
+       "name": "",
       "reference": ""
     }
   ]
