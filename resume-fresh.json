@@ -1,0 +1,158 @@
+{
+  "name": "Severiano Badajoz",
+  "info": {
+    "label": "Student at Make School studying Front-End Web Development",
+    "image": "",
+    "brief": "Severiano's love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience he has become an avid Java developer and familiar with Android development.  Seve loves to face challenges and adapt to new problems faced, learning to use new tools along the way.  He is excited to join the Make School community, confident in his ability to exit as a exceptional web developer."
+  },
+  "contact": {
+    "email": "sevebadajoz@gmail.com",
+    "phone": "(949) 629-0536",
+    "website": "https://www.makeschool.com/portfolio/severiano/"
+  },
+  "meta": {
+    "format": "FRESH@^1.0.0-beta",
+    "modified": "2018-09-04T20:19:57.109Z"
+  },
+  "location": {
+    "city": "San Francisco",
+    "region": "California",
+    "country": "US",
+    "code": "CA 94102",
+    "address": "555 Post St"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "Student Tutor",
+        "employer": "Orange Coast College, Student Success Center",
+        "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of enviroments, including: study groups, drop-in tutoring, and 1-on-1 appointments.",
+        "start": "2017-09-01",
+        "end": "2018-05-28",
+        "keywords": [],
+        "highlights": []
+      }
+    ]
+  },
+  "education": {
+    "level": "",
+    "history": [
+      {
+        "institution": "Make School",
+        "start": "2018-08-20",
+        "end": "2020-08-10",
+        "grade": "4.0",
+        "curriculum": [
+          "SPD1.1 - Intro Software Development",
+          "FEW1.1 - Web Foundations",
+          "BEW1.1 - RESTful & Resourceful MVC Architecture"
+        ],
+        "summary": "",
+        "area": "Applied Computer Science",
+        "studyType": "Bachelor"
+      },
+      {
+        "institution": "Orange Coast College",
+        "start": "2016-08-29",
+        "end": "2018-05-28",
+        "grade": "3.72",
+        "curriculum": [
+          "CSA170 - Java Programming 1",
+          "CSA150 - C++ Programming 1",
+          "CSA272 - Java Programming 2",
+          "CSA250 - C++ Programming 2",
+          "CSA273 - Mobile Application Development",
+          "CSA200 - Data Structures",
+          "MATHA285 - Introduction Linear Algebra & Differential Equations",
+          "CMSTA110 - Public Speaking",
+          "FILMA100 - History & Appreciation of the Cinema",
+          "PSCIA180 - American Government",
+          "ANTHA185H - Intro Physical Anthropology Honors",
+          "ASTRA100H - Introduction Astronomy Honors",
+          "ENGLA101H - Critical Thinking/Reading/Writing Literature Honors",
+          "SOCA100H - Introduction to Sociology Honors",
+          "TUTRA150 - Tutoring Skills/Ctr",
+          "ARTA101H - Western Art Renaissance-Modern Honors",
+          "ATHLA252 - Crew Team - Men's",
+          "KINA108 - Strength & Conditioning",
+          "ATHLA109 - Sports Conditioning"
+        ],
+        "summary": "",
+        "area": "Computer Science",
+        "studyType": "Associate"
+      }
+    ]
+  },
+  "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "Beginner",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript",
+          "Node.js"
+        ]
+      },
+      {
+        "name": "Java Development",
+        "level": "Master",
+        "skills": [
+          "Java",
+          "SE 8",
+          "JavaFX"
+        ]
+      },
+      {
+        "name": "Android Development",
+        "level": "Intermediate",
+        "skills": [
+          "Java",
+          "Android",
+          "Mobile"
+        ]
+      }
+    ]
+  },
+  "recognition": [
+    {
+      "title": "Oracle Certified Associate, Java SE 8 Programmer",
+      "date": "2017-05-20",
+      "from": "Oracle",
+      "summary": "An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies."
+    }
+  ],
+  "social": [
+    {
+      "label": "LinkedIn",
+      "network": "LinkedIn",
+      "url": "https://www.linkedin.com/in/severianob/",
+      "user": ""
+    },
+    {
+      "label": "GitHub",
+      "network": "GitHub",
+      "url": "https://www.github.com/seve",
+      "user": "seve"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Emerging Technologies",
+      "keywords": [
+        "Virtual Reality",
+        "Augmented Reality",
+        "Blockchain",
+        "Machine Learning",
+        "Artifical Intelligence"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ]
+}
