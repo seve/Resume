@@ -71,7 +71,7 @@
                 "SPD1.2 - Agile Product Development & UX/UI",
                 "FEW1.2 - JavaScript Foundations",
                 "BEW1.2 - Authentication, Authorization, and Advanced Queries",
-                "CS1.2 - How Data Structures Work",
+                "CS1.2 - How Data Structures Work"
             ]
         }
     ],
@@ -119,7 +119,7 @@
                 "Java",
                 "SE 8",
                 "JavaFX",
-                "Desktop Apps"
+                "Desktop Apps",
                 "Intellij IDEA"
             ]
         },
