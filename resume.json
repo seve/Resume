@@ -1,162 +1,158 @@
 {
-  "basics": {
-    "name": "Severiano Badajoz",
-    "label": "Student at Make School studying Front-End Web Development",
-    "picture": "",
-    "email": "sevebadajoz@gmail.com",
-    "phone": "(949) 629-0536",
-    "website": "https://www.makeschool.com/portfolio/severiano/",
-    "summary": "Severiano's love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience he has become an avid Java developer and familiar with Android development.  Seve loves to face challenges and adapt to new problems faced, learning to use new tools along the way.  He is excited to join the Make School community, confident in his ability to exit as a exceptional web developer.",
-    "location": {
-      "address": "555 Post St",
-      "postalCode": "CA 94102",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "",
-        "url": "https://www.linkedin.com/in/severianob/"
-      },
-      {
-        "network": "GitHub",
-        "username": "seve",
-        "url": "https://www.github.com/seve"
-      }
-    ]
-  },
-  "work": [
-    {
-      "company": "Orange Coast College, Student Success Center",
-      "position": "Student Tutor",
-      "website": "",
-      "startDate": "2017-09-01",
-      "endDate": "2018-05-28",
-      "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of enviroments, including: study groups, drop-in tutoring, and 1-on-1 appointments.",
-      "highlights": [
-        ""
+    "basics": {
+        "name": "Severiano Badajoz",
+        "label": "Student at Make School tudying Full Stack Web Development with an emphasis in Front-End",
+        "email": "severiano.badajoz@students.makeschool.com",
+        "phone": "(949)629-0536",
+        "website": "http://www.techseve.com/",
+        "summary": "My love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience I am now an avid Java, Javascript, and developer and familiar with Android development.  I love to face challenges and adapt to new problems faced, learning to use new tools along the way.  I am excited to be apart of the Make School community, confident in his ability to exit as a exceptional web developer.",
+        "location": {
+            "address": "555 Post St",
+            "postalCode": "CA 94102",
+            "city": "San Francisco",
+            "countryCode": "US",
+            "region": "California"
+        },
+        "profiles": [{
+                "network": "LinkedIn",
+                "username": "",
+                "url": "https://www.linkedin.com/in/severianob/"
+            },
+            {
+                "network": "GitHub",
+                "username": "seve",
+                "url": "https://www.github.com/seve"
+            }
         ]
-    }
-  ],
-  "volunteer": [
-    {
-    }
-  ],
-  "education": [
-    {
-      "institution": "Orange Coast College",
-      "area": "Computer Science",
-      "studyType": "Associate",
-      "startDate": "2016-08-29",
-      "endDate": "2018-05-28",
-      "gpa": "3.72",
-      "courses": [
-          "CSA170 - Java Programming 1",
-          "CSA150 - C++ Programming 1",
-          "CSA272 - Java Programming 2",
-          "CSA250 - C++ Programming 2",
-          "CSA273 - Mobile Application Development",
-          "CSA200 - Data Structures",
-          "MATHA285 - Introduction Linear Algebra & Differential Equations",
-          "CMSTA110 - Public Speaking",
-          "FILMA100 - History & Appreciation of the Cinema",
-          "PSCIA180 - American Government",
-          "ANTHA185H - Intro Physical Anthropology Honors",
-          "ASTRA100H - Introduction Astronomy Honors",
-          "ENGLA101H - Critical Thinking/Reading/Writing Literature Honors",
-          "SOCA100H - Introduction to Sociology Honors",
-          "TUTRA150 - Tutoring Skills/Ctr",
-          "ARTA101H - Western Art Renaissance-Modern Honors",
-          "ATHLA252 - Crew Team - Men's",
-          "KINA108 - Strength & Conditioning",
-          "ATHLA109 - Sports Conditioning"
-      ]
-  },
-    {
-        "institution": "Make School",
-        "area": "Applied Computer Science",
-        "studyType": "Bachelor",
-        "startDate": "2018-08-20",
-        "endDate": "2020-08-10",
-        "gpa": "4.0",
-        "courses": [
-            "SPD1.1 - Intro Software Development",
-            "FEW1.1 - Web Foundations",
-            "BEW1.1 - RESTful & Resourceful MVC Architecture"
-        ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Oracle Certified Associate, Java SE 8 Programmer",
-      "date": "2017-05-20",
-      "awarder": "Oracle",
-      "summary": "An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies."
-    }
-  ],
-  "publications": [
-    {
-       "name": "",
-      "publisher": "",
-      "releaseDate": "",
-      "website": "",
-      "summary": ""
-    }
-  ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Beginner",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Node.js"
-      ]
     },
-    {
-      "name": "Java Development",
-      "level": "Master",
-      "keywords": [
-        "Java",
-        "SE 8",
-        "JavaFX"
-      ]
-  },
-  {
-      "name": "Android Development",
-      "level": "Experienced",
-      "keywords": [
-        "Java",
-        "Android",
-        "Mobile"
-      ]
-  }
-  ],
-  "languages": [
-    {
-      "language": "English",
-      "fluency": "Native speaker"
-    }
-  ],
-  "interests": [
-    {
-      "name": "Emerging Technologies",
-      "keywords": [
-        "Virtual Reality",
-        "Augmented Reality",
-        "Blockchain",
-        "Machine Learning",
-        "Artifical Intelligence"
-      ]
-    }
-  ],
-  "references": [
-    {
-       "name": "",
-      "reference": ""
-    }
-  ]
+    "work": [{
+        "company": "Orange Coast College, Student Success Center",
+        "position": "Student Tutor",
+        "startDate": "2017-09-01",
+        "endDate": "2018-05-28",
+        "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of enviroments, including: study groups, drop-in tutoring, and 1-on-1 appointments."
+    }],
+    "volunteer": [{
+        "organization": "IGNITE",
+        "position": "Volunteer",
+        "website": "http://www.igniteworldwide.org/coding-workshop-at-ida-b-wells-continuation-high-school/",
+        "startDate": "2018-10",
+        "summary": "Inspiring Girls Now in Technology Evolution(IGNITE) serves as a program destined to introduce young women to STEM in hopes of permanently change their under-representation within the field"
+    }],
+    "education": [{
+            "institution": "Orange Coast College",
+            "area": "Computer Science",
+            "studyType": "Associate",
+            "startDate": "2016-08-29",
+            "endDate": "2018-05-28",
+            "gpa": "3.72",
+            "courses": [
+                "CSA170 - Java Programming 1",
+                "CSA150 - C++ Programming 1",
+                "CSA272 - Java Programming 2",
+                "CSA250 - C++ Programming 2",
+                "CSA273 - Mobile Application Development",
+                "CSA200 - Data Structures",
+                "MATHA285 - Introduction Linear Algebra & Differential Equations",
+                "CMSTA110 - Public Speaking"
+            ]
+        },
+        {
+            "institution": "Make School",
+            "area": "Applied Computer Science",
+            "studyType": "Bachelor",
+            "startDate": "2018-08-20",
+            "endDate": "2020-08-10",
+            "gpa": "4.0",
+            "courses": [
+                "SPD1.1 - Intro Software Development",
+                "FEW1.1 - Web Foundations",
+                "BEW1.1 - RESTful & Resourceful MVC Architecture",
+                "SPD1.2 - Agile Product Development & UX/UI",
+                "FEW1.2 - JavaScript Foundations",
+                "BEW1.2 - Authentication, Authorization, and Advanced Queries",
+                "CS1.2 - How Data Structures Work",
+            ]
+        }
+    ],
+    "awards": [{
+        "title": "Oracle Certified Associate, Java SE 8 Programmer",
+        "date": "2017-05-20",
+        "awarder": "Oracle",
+        "summary": "An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies."
+    }],
+    "skills": [{
+            "name": "Web Development",
+            "level": "Competent",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Node.js",
+                "React",
+                "Express",
+                "Atom"
+            ]
+        },
+        {
+            "name": "Python Development",
+            "level": "Early",
+            "keywords": [
+                "Python",
+                "Flask",
+                "Scripting",
+                "PyCharm"
+            ]
+        },
+        {
+            "name": "C++ Development",
+            "level": "Advanced",
+            "keywords": [
+                "C++",
+                "Visual Studio"
+            ]
+        },
+        {
+            "name": "Java Development",
+            "level": "Master",
+            "keywords": [
+                "Java",
+                "SE 8",
+                "JavaFX",
+                "Desktop Apps"
+                "Intellij IDEA"
+            ]
+        },
+        {
+            "name": "Android Development",
+            "level": "Competent",
+            "keywords": [
+                "Java",
+                "Android",
+                "Mobile",
+                "Android Studio"
+            ]
+        }
+    ],
+    "publications": [{
+        "name": "Exploring Cache Optimization with Reddit’s Infrastructure",
+        "publisher": "Medium",
+        "releaseDate": "2018-11-12",
+        "website": "https://medium.com/@sevebadajoz/exploring-cache-optimization-with-reddits-infrastructure-f5682325990d",
+        "summary": "An introduction into server-side cache and optimization through an exploration of Reddit's back-end infrastructure"
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+    }],
+    "interests": [{
+        "name": "Emerging Technologies",
+        "keywords": [
+            "Virtual Reality",
+            "Augmented Reality",
+            "Blockchain",
+            "Machine Learning",
+            "Artifical Intelligence"
+        ]
+    }]
 }
