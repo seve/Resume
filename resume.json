@@ -7,8 +7,6 @@
         "website": "http://www.techseve.com/",
         "summary": "My love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience I am now an avid Java, Javascript, and developer and familiar with Android development.  I love to face challenges and adapt to new problems faced, learning to use new tools along the way.  I am excited to be apart of the Make School community, confident in his ability to exit as a exceptional web developer.",
         "location": {
-            "address": "555 Post St",
-            "postalCode": "CA 94102",
             "city": "San Francisco",
             "countryCode": "US",
             "region": "California"
@@ -30,7 +28,7 @@
         "position": "Student Tutor",
         "startDate": "2017-09-01",
         "endDate": "2018-05-28",
-        "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of enviroments, including: study groups, drop-in tutoring, and 1-on-1 appointments."
+        "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of environments, including: study groups, drop-in tutoring, and 1-on-1 appointments."
     }],
     "volunteer": [{
         "organization": "IGNITE",
@@ -83,7 +81,7 @@
     }],
     "skills": [{
             "name": "Web Development",
-            "level": "Competent",
+            "level": "Intermediate",
             "keywords": [
                 "HTML",
                 "CSS",
@@ -96,7 +94,7 @@
         },
         {
             "name": "Python Development",
-            "level": "Early",
+            "level": "Intermediate",
             "keywords": [
                 "Python",
                 "Flask",
@@ -125,7 +123,7 @@
         },
         {
             "name": "Android Development",
-            "level": "Competent",
+            "level": "Advanced",
             "keywords": [
                 "Java",
                 "Android",
@@ -150,9 +148,8 @@
         "keywords": [
             "Virtual Reality",
             "Augmented Reality",
-            "Blockchain",
             "Machine Learning",
-            "Artifical Intelligence"
+            "Artificial Intelligence"
         ]
     }]
 }

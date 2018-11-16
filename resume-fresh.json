@@ -1,25 +1,22 @@
 {
   "name": "Severiano Badajoz",
   "info": {
-    "label": "Student at Make School studying Front-End Web Development",
-    "image": "",
-    "brief": "Severiano's love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience he has become an avid Java developer and familiar with Android development.  Seve loves to face challenges and adapt to new problems faced, learning to use new tools along the way.  He is excited to join the Make School community, confident in his ability to exit as a exceptional web developer."
+    "label": "Student at Make School tudying Full Stack Web Development with an emphasis in Front-End",
+    "brief": "My love for computer science began midway through middle school and has only grown since.  From a mixture of both self-teaching and classroom experience I am now an avid Java, Javascript, and developer and familiar with Android development.  I love to face challenges and adapt to new problems faced, learning to use new tools along the way.  I am excited to be apart of the Make School community, confident in his ability to exit as a exceptional web developer."
   },
   "contact": {
-    "email": "sevebadajoz@gmail.com",
-    "phone": "(949) 629-0536",
-    "website": "https://www.makeschool.com/portfolio/severiano/"
+    "email": "severiano.badajoz@students.makeschool.com",
+    "phone": "(949)629-0536",
+    "website": "http://www.techseve.com/"
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2018-09-04T20:19:57.109Z"
+    "modified": "2018-11-13T21:25:26.425Z"
   },
   "location": {
     "city": "San Francisco",
     "region": "California",
-    "country": "US",
-    "code": "CA 94102",
-    "address": "555 Post St"
+    "country": "US"
   },
   "employment": {
     "history": [
@@ -29,8 +26,7 @@
         "summary": "Aided fellow students in various Computer Science courses.  Assistance was completed in a variety of enviroments, including: study groups, drop-in tutoring, and 1-on-1 appointments.",
         "start": "2017-09-01",
         "end": "2018-05-28",
-        "keywords": [],
-        "highlights": []
+        "keywords": []
       }
     ]
   },
@@ -45,7 +41,11 @@
         "curriculum": [
           "SPD1.1 - Intro Software Development",
           "FEW1.1 - Web Foundations",
-          "BEW1.1 - RESTful & Resourceful MVC Architecture"
+          "BEW1.1 - RESTful & Resourceful MVC Architecture",
+          "SPD1.2 - Agile Product Development & UX/UI",
+          "FEW1.2 - JavaScript Foundations",
+          "BEW1.2 - Authentication, Authorization, and Advanced Queries",
+          "CS1.2 - How Data Structures Work"
         ],
         "summary": "",
         "area": "Applied Computer Science",
@@ -64,18 +64,7 @@
           "CSA273 - Mobile Application Development",
           "CSA200 - Data Structures",
           "MATHA285 - Introduction Linear Algebra & Differential Equations",
-          "CMSTA110 - Public Speaking",
-          "FILMA100 - History & Appreciation of the Cinema",
-          "PSCIA180 - American Government",
-          "ANTHA185H - Intro Physical Anthropology Honors",
-          "ASTRA100H - Introduction Astronomy Honors",
-          "ENGLA101H - Critical Thinking/Reading/Writing Literature Honors",
-          "SOCA100H - Introduction to Sociology Honors",
-          "TUTRA150 - Tutoring Skills/Ctr",
-          "ARTA101H - Western Art Renaissance-Modern Honors",
-          "ATHLA252 - Crew Team - Men's",
-          "KINA108 - Strength & Conditioning",
-          "ATHLA109 - Sports Conditioning"
+          "CMSTA110 - Public Speaking"
         ],
         "summary": "",
         "area": "Computer Science",
@@ -83,16 +72,49 @@
       }
     ]
   },
+  "service": {
+    "history": [
+      {
+        "type": "volunteer",
+        "position": "Volunteer",
+        "organization": "IGNITE",
+        "start": "2018-10",
+        "url": "http://www.igniteworldwide.org/coding-workshop-at-ida-b-wells-continuation-high-school/",
+        "summary": "Inspiring Girls Now in Technology Evolution(IGNITE) serves as a program destined to introduce young women to STEM in hopes of permanently changing their under-representation within the field"
+      }
+    ]
+  },
   "skills": {
     "sets": [
       {
         "name": "Web Development",
-        "level": "Beginner",
+        "level": "Intermediate",
         "skills": [
           "HTML",
           "CSS",
           "Javascript",
-          "Node.js"
+          "Node.js",
+          "React",
+          "Express",
+          "Atom"
+        ]
+      },
+      {
+        "name": "Python Development",
+        "level": "Intermediate",
+        "skills": [
+          "Python",
+          "Flask",
+          "Scripting",
+          "PyCharm"
+        ]
+      },
+      {
+        "name": "C++ Development",
+        "level": "Advanced",
+        "skills": [
+          "C++",
+          "Visual Studio"
         ]
       },
       {
@@ -101,20 +123,32 @@
         "skills": [
           "Java",
           "SE 8",
-          "JavaFX"
+          "JavaFX",
+          "Desktop Apps",
+          "Intellij IDEA"
         ]
       },
       {
         "name": "Android Development",
-        "level": "Intermediate",
+        "level": "Advanced",
         "skills": [
           "Java",
           "Android",
-          "Mobile"
+          "Mobile",
+          "Android Studio"
         ]
       }
     ]
   },
+  "writing": [
+    {
+      "title": "Exploring Cache Optimization with Reddit’s Infrastructure",
+      "publisher": "Medium",
+      "url": "https://medium.com/@sevebadajoz/exploring-cache-optimization-with-reddits-infrastructure-f5682325990d",
+      "date": "2018-11-12",
+      "summary": "An introduction into server-side cache and optimization through an exploration of Reddit's back-end infrastructure"
+    }
+  ],
   "recognition": [
     {
       "title": "Oracle Certified Associate, Java SE 8 Programmer",
